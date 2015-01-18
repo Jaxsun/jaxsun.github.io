@@ -39,6 +39,10 @@ body {
 }
 
 /* custom button colors */
+.btn {
+  margin: 5px;
+}
+
 .btn-google {
   color: #ffffff;
   background-color: #DD4B39;
