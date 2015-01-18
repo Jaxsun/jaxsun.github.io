@@ -1,0 +1,229 @@
+body { 
+  padding-top: 70px; 
+}
+.btn-google {
+  color: #ffffff;
+  background-color: #DD4B39;
+  border-color: #DD4B39;
+}
+.btn-google:hover,
+.btn-google:focus,
+.btn-google.focus,
+.btn-google:active,
+.btn-google.active,
+.open > .dropdown-toggle.btn-google {
+  color: #ffffff;
+  background-color: #cc4939;
+  border-color: #cc4939;
+}
+.btn-google:active,
+.btn-google.active,
+.open > .dropdown-toggle.btn-google {
+  background-image: none;
+}
+.btn-google.disabled,
+.btn-google[disabled],
+fieldset[disabled] .btn-google,
+.btn-google.disabled:hover,
+.btn-google[disabled]:hover,
+fieldset[disabled] .btn-google:hover,
+.btn-google.disabled:focus,
+.btn-google[disabled]:focus,
+fieldset[disabled] .btn-google:focus,
+.btn-google.disabled.focus,
+.btn-google[disabled].focus,
+fieldset[disabled] .btn-google.focus,
+.btn-google.disabled:active,
+.btn-google[disabled]:active,
+fieldset[disabled] .btn-google:active,
+.btn-google.disabled.active,
+.btn-google[disabled].active,
+fieldset[disabled] .btn-google.active {
+  background-color: #DD4B39;
+  border-color: #DD4B39;
+}
+.btn-google .badge {
+  color: #DD4B39;
+  background-color: #ffffff;
+}
+.btn-twitter {
+  color: #ffffff;
+  background-color: #5EA9DD;
+  border-color: #5EA9DD;
+}
+.btn-twitter:hover,
+.btn-twitter:focus,
+.btn-twitter.focus,
+.btn-twitter:active,
+.btn-twitter.active,
+.open > .dropdown-toggle.btn-twitter {
+  color: #ffffff;
+  background-color: #5f91b4;
+  border-color: #5f91b4;
+}
+.btn-twitter:active,
+.btn-twitter.active,
+.open > .dropdown-toggle.btn-twitter {
+  background-image: none;
+}
+.btn-twitter.disabled,
+.btn-twitter[disabled],
+fieldset[disabled] .btn-twitter,
+.btn-twitter.disabled:hover,
+.btn-twitter[disabled]:hover,
+fieldset[disabled] .btn-twitter:hover,
+.btn-twitter.disabled:focus,
+.btn-twitter[disabled]:focus,
+fieldset[disabled] .btn-twitter:focus,
+.btn-twitter.disabled.focus,
+.btn-twitter[disabled].focus,
+fieldset[disabled] .btn-twitter.focus,
+.btn-twitter.disabled:active,
+.btn-twitter[disabled]:active,
+fieldset[disabled] .btn-twitter:active,
+.btn-twitter.disabled.active,
+.btn-twitter[disabled].active,
+fieldset[disabled] .btn-twitter.active {
+  background-color: #5EA9DD;
+  border-color: #5EA9DD;
+}
+.btn-twitter .badge {
+  color: #5EA9DD;
+  background-color: #ffffff;
+}
+.btn-linkedin {
+  color: #ffffff;
+  background-color: #1C87BD;
+  border-color: #1C87BD;
+}
+.btn-linkedin:hover,
+.btn-linkedin:focus,
+.btn-linkedin.focus,
+.btn-linkedin:active,
+.btn-linkedin.active,
+.open > .dropdown-toggle.btn-linkedin {
+  color: #ffffff;
+  background-color: #217dbb;
+  border-color: #2077b2;
+}
+.btn-linkedin:active,
+.btn-linkedin.active,
+.open > .dropdown-toggle.btn-linkedin {
+  background-image: none;
+}
+.btn-linkedin.disabled,
+.btn-linkedin[disabled],
+fieldset[disabled] .btn-linkedin,
+.btn-linkedin.disabled:hover,
+.btn-linkedin[disabled]:hover,
+fieldset[disabled] .btn-linkedin:hover,
+.btn-linkedin.disabled:focus,
+.btn-linkedin[disabled]:focus,
+fieldset[disabled] .btn-linkedin:focus,
+.btn-linkedin.disabled.focus,
+.btn-linkedin[disabled].focus,
+fieldset[disabled] .btn-linkedin.focus,
+.btn-linkedin.disabled:active,
+.btn-linkedin[disabled]:active,
+fieldset[disabled] .btn-linkedin:active,
+.btn-linkedin.disabled.active,
+.btn-linkedin[disabled].active,
+fieldset[disabled] .btn-linkedin.active {
+  background-color: #1C87BD;
+  border-color: #1C87BD;
+}
+.btn-linkedin .badge {
+  color: #1C87BD;
+  background-color: #ffffff;
+}
+.btn-steam {
+  color: #ffffff;
+  background-color: #171A21;
+  border-color: #171A21;
+}
+.btn-steam:hover,
+.btn-steam:focus,
+.btn-steam.focus,
+.btn-steam:active,
+.btn-steam.active,
+.open > .dropdown-toggle.btn-steam {
+  color: #ffffff;
+  background-color: #08080b;
+  border-color: #08080b;
+}
+.btn-steam:active,
+.btn-steam.active,
+.open > .dropdown-toggle.btn-steam {
+  background-image: none;
+}
+.btn-steam.disabled,
+.btn-steam[disabled],
+fieldset[disabled] .btn-steam,
+.btn-steam.disabled:hover,
+.btn-steam[disabled]:hover,
+fieldset[disabled] .btn-steam:hover,
+.btn-steam.disabled:focus,
+.btn-steam[disabled]:focus,
+fieldset[disabled] .btn-steam:focus,
+.btn-steam.disabled.focus,
+.btn-steam[disabled].focus,
+fieldset[disabled] .btn-steam.focus,
+.btn-steam.disabled:active,
+.btn-steam[disabled]:active,
+fieldset[disabled] .btn-steam:active,
+.btn-steam.disabled.active,
+.btn-steam[disabled].active,
+fieldset[disabled] .btn-steam.active {
+  background-color: #171A21;
+  border-color: #171A21;
+}
+.btn-steam .badge {
+  color: #171A21;
+  background-color: #ffffff;
+}
+
+.btn-github {
+  color: #ffffff;
+  background-color: #171A21;
+  border-color: #171A21;
+}
+.btn-github:hover,
+.btn-github:focus,
+.btn-github.focus,
+.btn-github:active,
+.btn-github.active,
+.open > .dropdown-toggle.btn-github {
+  color: #ffffff;
+  background-color: #08080b;
+  border-color: #08080b;
+}
+.btn-github:active,
+.btn-github.active,
+.open > .dropdown-toggle.btn-github {
+  background-image: none;
+}
+.btn-github.disabled,
+.btn-github[disabled],
+fieldset[disabled] .btn-github,
+.btn-github.disabled:hover,
+.btn-github[disabled]:hover,
+fieldset[disabled] .btn-github:hover,
+.btn-github.disabled:focus,
+.btn-github[disabled]:focus,
+fieldset[disabled] .btn-github:focus,
+.btn-github.disabled.focus,
+.btn-github[disabled].focus,
+fieldset[disabled] .btn-github.focus,
+.btn-github.disabled:active,
+.btn-github[disabled]:active,
+fieldset[disabled] .btn-github:active,
+.btn-github.disabled.active,
+.btn-github[disabled].active,
+fieldset[disabled] .btn-github.active {
+  background-color: #171A21;
+  border-color: #171A21;
+}
+.btn-github .badge {
+  color: #171A21;
+  background-color: #ffffff;
+}
