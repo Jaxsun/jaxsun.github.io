@@ -45,8 +45,8 @@ body {
 
 .btn-google {
   color: #ffffff;
-  background-color: #DD4B39;
-  border-color: #DD4B39;
+  background-color: #dd4b39;
+  border-color: #dd4b39;
 }
 .btn-google:hover,
 .btn-google:focus,
@@ -81,14 +81,14 @@ fieldset[disabled] .btn-google:active,
 .btn-google.disabled.active,
 .btn-google[disabled].active,
 fieldset[disabled] .btn-google.active {
-  background-color: #DD4B39;
-  border-color: #DD4B39;
+  background-color: #dd4b39;
+  border-color: #dd4b39;
 }
 
 .btn-twitter {
   color: #ffffff;
-  background-color: #5EA9DD;
-  border-color: #5EA9DD;
+  background-color: #5ea9dd;
+  border-color: #5ea9dd;
 }
 .btn-twitter:hover,
 .btn-twitter:focus,
@@ -123,14 +123,14 @@ fieldset[disabled] .btn-twitter:active,
 .btn-twitter.disabled.active,
 .btn-twitter[disabled].active,
 fieldset[disabled] .btn-twitter.active {
-  background-color: #5EA9DD;
-  border-color: #5EA9DD;
+  background-color: #5ea9dd;
+  border-color: #5ea9dd;
 }
 
 .btn-linkedin {
   color: #ffffff;
-  background-color: #1C87BD;
-  border-color: #1C87BD;
+  background-color: #1c87bd;
+  border-color: #1c87bd;
 }
 .btn-linkedin:hover,
 .btn-linkedin:focus,
@@ -165,8 +165,8 @@ fieldset[disabled] .btn-linkedin:active,
 .btn-linkedin.disabled.active,
 .btn-linkedin[disabled].active,
 fieldset[disabled] .btn-linkedin.active {
-  background-color: #1C87BD;
-  border-color: #1C87BD;
+  background-color: #1c87bd;
+  border-color: #1c87bd;
 }
 
 .btn-steam {
@@ -213,8 +213,8 @@ fieldset[disabled] .btn-steam.active {
 
 .btn-github {
   color: #000000;
-  background-color: #EAEAEA;
-  border-color: #EAEAEA;
+  background-color: #eaeaea;
+  border-color: #eaeaea;
 }
 .btn-github:hover,
 .btn-github:focus,
@@ -249,6 +249,6 @@ fieldset[disabled] .btn-github:active,
 .btn-github.disabled.active,
 .btn-github[disabled].active,
 fieldset[disabled] .btn-github.active {
-  background-color: #EAEAEA;
-  border-color: #EAEAEA;
+  background-color: #eaeaea;
+  border-color: #eaeaea;
 }
