@@ -85,44 +85,44 @@ fieldset[disabled] .btn-gg.active {
   border-color: #dd4b39;
 }
 
-.btn-tw {
+.btn-t {
   color: #ffffff;
   background-color: #5ea9dd;
   border-color: #5ea9dd;
 }
-.btn-tw:hover,
-.btn-tw:focus,
-.btn-tw.focus,
-.btn-tw:active,
-.btn-tw.active,
-.open > .dropdown-toggle.btn-tw {
+.btn-t:hover,
+.btn-t:focus,
+.btn-t.focus,
+.btn-t:active,
+.btn-t.active,
+.open > .dropdown-toggle.btn-t {
   color: #ffffff;
   background-color: #5f91b4;
   border-color: #5f91b4;
 }
-.btn-tw:active,
-.btn-tw.active,
-.open > .dropdown-toggle.btn-tw {
+.btn-t:active,
+.btn-t.active,
+.open > .dropdown-toggle.btn-t {
   background-image: none;
 }
-.btn-tw.disabled,
-.btn-tw[disabled],
-fieldset[disabled] .btn-tw,
-.btn-tw.disabled:hover,
-.btn-tw[disabled]:hover,
-fieldset[disabled] .btn-tw:hover,
-.btn-tw.disabled:focus,
-.btn-tw[disabled]:focus,
-fieldset[disabled] .btn-tw:focus,
-.btn-tw.disabled.focus,
-.btn-tw[disabled].focus,
-fieldset[disabled] .btn-tw.focus,
-.btn-tw.disabled:active,
-.btn-tw[disabled]:active,
-fieldset[disabled] .btn-tw:active,
-.btn-tw.disabled.active,
-.btn-tw[disabled].active,
-fieldset[disabled] .btn-tw.active {
+.btn-t.disabled,
+.btn-t[disabled],
+fieldset[disabled] .btn-t,
+.btn-t.disabled:hover,
+.btn-t[disabled]:hover,
+fieldset[disabled] .btn-t:hover,
+.btn-t.disabled:focus,
+.btn-t[disabled]:focus,
+fieldset[disabled] .btn-t:focus,
+.btn-t.disabled.focus,
+.btn-t[disabled].focus,
+fieldset[disabled] .btn-t.focus,
+.btn-t.disabled:active,
+.btn-t[disabled]:active,
+fieldset[disabled] .btn-t:active,
+.btn-t.disabled.active,
+.btn-t[disabled].active,
+fieldset[disabled] .btn-t.active {
   background-color: #5ea9dd;
   border-color: #5ea9dd;
 }
