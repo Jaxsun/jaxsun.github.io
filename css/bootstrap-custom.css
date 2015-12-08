@@ -41,6 +41,7 @@ body {
 /* custom button colors */
 .btn {
   margin: 5px;
+  font-weight: bold;
 }
 
 .btn-gg {
