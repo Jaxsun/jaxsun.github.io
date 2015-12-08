@@ -5,8 +5,8 @@ html {
 }
 
 /* pad out the nav bars */
-body { 
-  padding-top: 70px; 
+body {
+  padding-top: 70px;
   padding-bottom: 60px;
   /* custom colors*/
   background-color: #221e29;
@@ -31,11 +31,11 @@ body {
 }
 
 .footer .text-muted {
-  color: #957995; 
+  color: #957995;
 }
 
 .footer a {
-  color: #322039; 
+  color: #322039;
 }
 
 /* custom button colors */
@@ -43,212 +43,212 @@ body {
   margin: 5px;
 }
 
-.btn-google {
+.btn-gg {
   color: #ffffff;
   background-color: #dd4b39;
   border-color: #dd4b39;
 }
-.btn-google:hover,
-.btn-google:focus,
-.btn-google.focus,
-.btn-google:active,
-.btn-google.active,
-.open > .dropdown-toggle.btn-google {
+.btn-gg:hover,
+.btn-gg:focus,
+.btn-gg.focus,
+.btn-gg:active,
+.btn-gg.active,
+.open > .dropdown-toggle.btn-gg {
   color: #ffffff;
   background-color: #cc4939;
   border-color: #cc4939;
 }
-.btn-google:active,
-.btn-google.active,
-.open > .dropdown-toggle.btn-google {
+.btn-gg:active,
+.btn-gg.active,
+.open > .dropdown-toggle.btn-gg {
   background-image: none;
 }
-.btn-google.disabled,
-.btn-google[disabled],
-fieldset[disabled] .btn-google,
-.btn-google.disabled:hover,
-.btn-google[disabled]:hover,
-fieldset[disabled] .btn-google:hover,
-.btn-google.disabled:focus,
-.btn-google[disabled]:focus,
-fieldset[disabled] .btn-google:focus,
-.btn-google.disabled.focus,
-.btn-google[disabled].focus,
-fieldset[disabled] .btn-google.focus,
-.btn-google.disabled:active,
-.btn-google[disabled]:active,
-fieldset[disabled] .btn-google:active,
-.btn-google.disabled.active,
-.btn-google[disabled].active,
-fieldset[disabled] .btn-google.active {
+.btn-gg.disabled,
+.btn-gg[disabled],
+fieldset[disabled] .btn-gg,
+.btn-gg.disabled:hover,
+.btn-gg[disabled]:hover,
+fieldset[disabled] .btn-gg:hover,
+.btn-gg.disabled:focus,
+.btn-gg[disabled]:focus,
+fieldset[disabled] .btn-gg:focus,
+.btn-gg.disabled.focus,
+.btn-gg[disabled].focus,
+fieldset[disabled] .btn-gg.focus,
+.btn-gg.disabled:active,
+.btn-gg[disabled]:active,
+fieldset[disabled] .btn-gg:active,
+.btn-gg.disabled.active,
+.btn-gg[disabled].active,
+fieldset[disabled] .btn-gg.active {
   background-color: #dd4b39;
   border-color: #dd4b39;
 }
 
-.btn-twitter {
+.btn-tw {
   color: #ffffff;
   background-color: #5ea9dd;
   border-color: #5ea9dd;
 }
-.btn-twitter:hover,
-.btn-twitter:focus,
-.btn-twitter.focus,
-.btn-twitter:active,
-.btn-twitter.active,
-.open > .dropdown-toggle.btn-twitter {
+.btn-tw:hover,
+.btn-tw:focus,
+.btn-tw.focus,
+.btn-tw:active,
+.btn-tw.active,
+.open > .dropdown-toggle.btn-tw {
   color: #ffffff;
   background-color: #5f91b4;
   border-color: #5f91b4;
 }
-.btn-twitter:active,
-.btn-twitter.active,
-.open > .dropdown-toggle.btn-twitter {
+.btn-tw:active,
+.btn-tw.active,
+.open > .dropdown-toggle.btn-tw {
   background-image: none;
 }
-.btn-twitter.disabled,
-.btn-twitter[disabled],
-fieldset[disabled] .btn-twitter,
-.btn-twitter.disabled:hover,
-.btn-twitter[disabled]:hover,
-fieldset[disabled] .btn-twitter:hover,
-.btn-twitter.disabled:focus,
-.btn-twitter[disabled]:focus,
-fieldset[disabled] .btn-twitter:focus,
-.btn-twitter.disabled.focus,
-.btn-twitter[disabled].focus,
-fieldset[disabled] .btn-twitter.focus,
-.btn-twitter.disabled:active,
-.btn-twitter[disabled]:active,
-fieldset[disabled] .btn-twitter:active,
-.btn-twitter.disabled.active,
-.btn-twitter[disabled].active,
-fieldset[disabled] .btn-twitter.active {
+.btn-tw.disabled,
+.btn-tw[disabled],
+fieldset[disabled] .btn-tw,
+.btn-tw.disabled:hover,
+.btn-tw[disabled]:hover,
+fieldset[disabled] .btn-tw:hover,
+.btn-tw.disabled:focus,
+.btn-tw[disabled]:focus,
+fieldset[disabled] .btn-tw:focus,
+.btn-tw.disabled.focus,
+.btn-tw[disabled].focus,
+fieldset[disabled] .btn-tw.focus,
+.btn-tw.disabled:active,
+.btn-tw[disabled]:active,
+fieldset[disabled] .btn-tw:active,
+.btn-tw.disabled.active,
+.btn-tw[disabled].active,
+fieldset[disabled] .btn-tw.active {
   background-color: #5ea9dd;
   border-color: #5ea9dd;
 }
 
-.btn-linkedin {
+.btn-li {
   color: #ffffff;
   background-color: #1c87bd;
   border-color: #1c87bd;
 }
-.btn-linkedin:hover,
-.btn-linkedin:focus,
-.btn-linkedin.focus,
-.btn-linkedin:active,
-.btn-linkedin.active,
-.open > .dropdown-toggle.btn-linkedin {
+.btn-li:hover,
+.btn-li:focus,
+.btn-li.focus,
+.btn-li:active,
+.btn-li.active,
+.open > .dropdown-toggle.btn-li {
   color: #ffffff;
   background-color: #217dbb;
   border-color: #2077b2;
 }
-.btn-linkedin:active,
-.btn-linkedin.active,
-.open > .dropdown-toggle.btn-linkedin {
+.btn-li:active,
+.btn-li.active,
+.open > .dropdown-toggle.btn-li {
   background-image: none;
 }
-.btn-linkedin.disabled,
-.btn-linkedin[disabled],
-fieldset[disabled] .btn-linkedin,
-.btn-linkedin.disabled:hover,
-.btn-linkedin[disabled]:hover,
-fieldset[disabled] .btn-linkedin:hover,
-.btn-linkedin.disabled:focus,
-.btn-linkedin[disabled]:focus,
-fieldset[disabled] .btn-linkedin:focus,
-.btn-linkedin.disabled.focus,
-.btn-linkedin[disabled].focus,
-fieldset[disabled] .btn-linkedin.focus,
-.btn-linkedin.disabled:active,
-.btn-linkedin[disabled]:active,
-fieldset[disabled] .btn-linkedin:active,
-.btn-linkedin.disabled.active,
-.btn-linkedin[disabled].active,
-fieldset[disabled] .btn-linkedin.active {
+.btn-li.disabled,
+.btn-li[disabled],
+fieldset[disabled] .btn-li,
+.btn-li.disabled:hover,
+.btn-li[disabled]:hover,
+fieldset[disabled] .btn-li:hover,
+.btn-li.disabled:focus,
+.btn-li[disabled]:focus,
+fieldset[disabled] .btn-li:focus,
+.btn-li.disabled.focus,
+.btn-li[disabled].focus,
+fieldset[disabled] .btn-li.focus,
+.btn-li.disabled:active,
+.btn-li[disabled]:active,
+fieldset[disabled] .btn-li:active,
+.btn-li.disabled.active,
+.btn-li[disabled].active,
+fieldset[disabled] .btn-li.active {
   background-color: #1c87bd;
   border-color: #1c87bd;
 }
 
-.btn-steam {
+.btn-st {
   color: #ffffff;
   background-color: #5a5445;
   border-color: #5a5445;
 }
-.btn-steam:hover,
-.btn-steam:focus,
-.btn-steam.focus,
-.btn-steam:active,
-.btn-steam.active,
-.open > .dropdown-toggle.btn-steam {
+.btn-st:hover,
+.btn-st:focus,
+.btn-st.focus,
+.btn-st:active,
+.btn-st.active,
+.open > .dropdown-toggle.btn-st {
   color: #ffffff;
   background-color: #514c3f;
   border-color: #514c3f;
 }
-.btn-steam:active,
-.btn-steam.active,
-.open > .dropdown-toggle.btn-steam {
+.btn-st:active,
+.btn-st.active,
+.open > .dropdown-toggle.btn-st {
   background-image: none;
 }
-.btn-steam.disabled,
-.btn-steam[disabled],
-fieldset[disabled] .btn-steam,
-.btn-steam.disabled:hover,
-.btn-steam[disabled]:hover,
-fieldset[disabled] .btn-steam:hover,
-.btn-steam.disabled:focus,
-.btn-steam[disabled]:focus,
-fieldset[disabled] .btn-steam:focus,
-.btn-steam.disabled.focus,
-.btn-steam[disabled].focus,
-fieldset[disabled] .btn-steam.focus,
-.btn-steam.disabled:active,
-.btn-steam[disabled]:active,
-fieldset[disabled] .btn-steam:active,
-.btn-steam.disabled.active,
-.btn-steam[disabled].active,
-fieldset[disabled] .btn-steam.active {
+.btn-st.disabled,
+.btn-st[disabled],
+fieldset[disabled] .btn-st,
+.btn-st.disabled:hover,
+.btn-st[disabled]:hover,
+fieldset[disabled] .btn-st:hover,
+.btn-st.disabled:focus,
+.btn-st[disabled]:focus,
+fieldset[disabled] .btn-st:focus,
+.btn-st.disabled.focus,
+.btn-st[disabled].focus,
+fieldset[disabled] .btn-st.focus,
+.btn-st.disabled:active,
+.btn-st[disabled]:active,
+fieldset[disabled] .btn-st:active,
+.btn-st.disabled.active,
+.btn-st[disabled].active,
+fieldset[disabled] .btn-st.active {
   background-color: #5a5445;
   border-color: #5a5445;
 }
 
-.btn-github {
+.btn-gh {
   color: #000000;
   background-color: #eaeaea;
   border-color: #eaeaea;
 }
-.btn-github:hover,
-.btn-github:focus,
-.btn-github.focus,
-.btn-github:active,
-.btn-github.active,
-.open > .dropdown-toggle.btn-github {
+.btn-gh:hover,
+.btn-gh:focus,
+.btn-gh.focus,
+.btn-gh:active,
+.btn-gh.active,
+.open > .dropdown-toggle.btn-gh {
   color: #000000;
   background-color: #d0d0d0;
   border-color: #d0d0d0;
 }
-.btn-github:active,
-.btn-github.active,
-.open > .dropdown-toggle.btn-github {
+.btn-gh:active,
+.btn-gh.active,
+.open > .dropdown-toggle.btn-gh {
   background-image: none;
 }
-.btn-github.disabled,
-.btn-github[disabled],
-fieldset[disabled] .btn-github,
-.btn-github.disabled:hover,
-.btn-github[disabled]:hover,
-fieldset[disabled] .btn-github:hover,
-.btn-github.disabled:focus,
-.btn-github[disabled]:focus,
-fieldset[disabled] .btn-github:focus,
-.btn-github.disabled.focus,
-.btn-github[disabled].focus,
-fieldset[disabled] .btn-github.focus,
-.btn-github.disabled:active,
-.btn-github[disabled]:active,
-fieldset[disabled] .btn-github:active,
-.btn-github.disabled.active,
-.btn-github[disabled].active,
-fieldset[disabled] .btn-github.active {
+.btn-gh.disabled,
+.btn-gh[disabled],
+fieldset[disabled] .btn-gh,
+.btn-gh.disabled:hover,
+.btn-gh[disabled]:hover,
+fieldset[disabled] .btn-gh:hover,
+.btn-gh.disabled:focus,
+.btn-gh[disabled]:focus,
+fieldset[disabled] .btn-gh:focus,
+.btn-gh.disabled.focus,
+.btn-gh[disabled].focus,
+fieldset[disabled] .btn-gh.focus,
+.btn-gh.disabled:active,
+.btn-gh[disabled]:active,
+fieldset[disabled] .btn-gh:active,
+.btn-gh.disabled.active,
+.btn-gh[disabled].active,
+fieldset[disabled] .btn-gh.active {
   background-color: #eaeaea;
   border-color: #eaeaea;
 }
